@@ -1,10 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Folio
-Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: https://bootstrapmade.com
-
-## Useful Links
+## Other Useful Links
 
 **ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
 
